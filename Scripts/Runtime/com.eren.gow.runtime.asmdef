@@ -1,0 +1,16 @@
+{
+    "name": "com.eren.gow.runtime",
+    "rootNamespace": "GOW.Runtime",
+    "references": [
+        "GUID:e73d42b6534f1de4a940c775f1ea8e9f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
